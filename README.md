@@ -80,7 +80,7 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
-#Program to find the element in a list using Binary Search(Iterative Method)..
+#Program to find the element in a list using Binary Search(Recursive Method)..
 #Developed by: ponguru aasrith sairam
 #RegisterNumber: 23007809
 
